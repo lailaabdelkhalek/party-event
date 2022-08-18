@@ -1,0 +1,101 @@
+#home{
+    background-image: url(../images/events-heavenly-header.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+.home2{
+    background-color: rgba(202, 55, 60, 0.6);
+}
+
+.navbar{
+    background-color: transparent !important;
+    width: 10%;
+}
+
+h1{
+    font-size: 60px !important;
+}
+.links a{
+    transition: all 1s;
+    font-size: 20px;
+}
+.links a:hover{
+    color:rgb(202, 55, 60) !important;
+}
+
+#details h3{
+    background-color: rgba(214, 46, 51, 0.6);
+    color: white;
+    margin: 0;
+    padding: 5px 0px;
+}
+
+#details p{
+    background-color: #ccc;
+    margin: 0;
+}
+
+
+
+#toggle-example{
+    display: none;
+}
+
+#toggle-example2{
+    display: none;
+}
+
+#toggle-example3{
+    display: none;
+}
+
+#toggle-example4{
+    display: none;
+}
+
+
+#duration{
+    background-image:url(../images/invitation-2508607__340.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 300px;
+}
+
+.duration2{
+    background-color: rgba(202, 55, 60, 0.6);
+    
+}
+
+#duration span{
+    border: 1px solid white;
+    padding: 50px 0;
+    font-size: 25px;
+    color: white;
+    margin: 20px 10px;
+}
+
+
+.contacticons a{
+    color: #999;
+}
+
+.contacticons i{
+    border: #999 solid 1px;
+    font-size: 20px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.contacticons i:hover{
+    color: white;
+    background-color: rgb(202, 55, 60);
+    border: 1px solid rgb(202, 55, 60);
+}
+
+.email{
+    color: rgb(202, 55, 60);
+}
+
+
+
